@@ -1,0 +1,24 @@
+.encabezado{
+    border-bottom: solid 2px rgb(10, 10, 10);
+    background: linear-gradient(rgb(165, 165, 131), rgb(243, 244, 239));
+}
+
+body h1{
+    color: rgb(29, 29, 32);
+}
+
+
+
+
+nav a{
+    text-decoration: none;
+    color: rgb(172, 109, 109);
+}
+
+nav a:hover{
+    color: rgb(17, 17, 15);
+}
+
+
+
+
